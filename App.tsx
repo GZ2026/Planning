@@ -10,7 +10,7 @@ import {
 } from 'lucide-react';
 import * as XLSX from 'xlsx';
 import { SIHRecord, SalesRecord, FreezerRecord, PlanningDay, PlanningResults } from './types';
-import { runPlanningLogic, deduceSKUType } from './services/plannerEngine';
+import { runPlanningLogic, deduceSKUType } from './services/PlannerEngine';
 import { exportToExcel } from './services/excelExport';
 
 const App: React.FC = () => {
