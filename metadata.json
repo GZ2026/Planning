@@ -1,0 +1,6 @@
+{
+  "name": "GZ Tier 1 Dispatch Planner",
+  "description": "A high-performance supply chain planning tool for Go Zero, featuring automated lead time calculations, freezer capacity scaling, and top-up logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
